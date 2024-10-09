@@ -1,5 +1,12 @@
 # Stock_Analysis_K_Mean
 Here’s a comprehensive README file template for your GitHub repository that outlines the steps and functionalities of your stock market clustering app. You can modify it as necessary to better fit your project specifics.
+![Screenshot 2024-10-09 210210](https://github.com/user-attachments/assets/fbeaafbb-c02c-4e74-b931-ea1696741a15)
+![Screenshot 2024-10-09 210258](https://github.com/user-attachments/assets/77c30e37-8128-4cb0-b263-5c30d7e227f1)
+![Screenshot 2024-10-09 210306](https://github.com/user-attachments/assets/922d1b90-853d-4e0e-b8f8-2a953b7ceaed)
+![Screenshot 2024-10-09 210354](https://github.com/user-attachments/assets/83f5da9f-e908-47f6-bff5-547b45161a31)
+![Screenshot 2024-10-09 210402](https://github.com/user-attachments/assets/3a56a7d2-9e09-4fe1-934a-0e26e11dc422)
+![Screenshot 2024-10-09 210410](https://github.com/user-attachments/assets/910c7fef-0817-42b3-9c04-92e1f4c4c2de)
+
 
 ```markdown
 # Stock Market Clustering App
